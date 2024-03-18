@@ -7,4 +7,9 @@
     add the direction tag (ltr or rtl) on the html tag.
   - Open your file in your browser (the page should be blank)
 
--
+- Copy the content of 0-index.html into 1-index.html
+  - Create the head and body sections
+    - inside the html tag, create the head and body tags (empty) in
+      this order
+
+- 
