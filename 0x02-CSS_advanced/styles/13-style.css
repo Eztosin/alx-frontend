@@ -72,19 +72,19 @@ body {
     color: var(--text-color);
 }
 
-a:not(:empty) {
+a[href] {
     color: var(--text-color);
     text-decoration: none;
 }
 
-a:not(:empty):visited {
+a[href]:visited {
     font-style: italic;
 }
 
-a:not(:empty):hover {
+a[href]:hover {
     text-decoration: underline;
 }
 
-a:not(:empty):active {
+a[href]:active {
     background-color: var(--color-light-grey);
 }
