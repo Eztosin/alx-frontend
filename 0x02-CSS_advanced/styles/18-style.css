@@ -42,7 +42,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     --nav-item-letter-spacing: .04rem;
     --nav-item-display: inline-block;
     --nav-item-margin: 0 0 0 2rem;
-    --nav-item-link-hover: var(--color-primary);
+    --nav-item-link-hover: var(--color-white);
 }
 
 *, *:before, *:after {
@@ -74,6 +74,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav {
     margin: 0;
     padding: 0;
+    list-style-type: none;
     text-align: center;
 }
 
